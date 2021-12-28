@@ -5,5 +5,4 @@ module.exports = {
         contentApi: 'jesstest.cdn.content.amplience.net'
     },
     poweredByHeader: false,
-    target: 'serverless'
 }
